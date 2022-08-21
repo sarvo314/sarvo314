@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sarvottam Swaroop
-- 👀 I’m interested in Machine Learning & AI
-- 🌱 I’m currently learning Python(pygame to be specific)
-- 💞️ I’m looking to collaborate on ML/AI projects
+- 👀 I’m a Game Developer
+- 🌱 I’m currently learning Unity 3D
+- 💞️ I’m looking to collaborate on GameDev projects
 - 📫 How to reach me: sarvottamswaroop100@gmail.com
