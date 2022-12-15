@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarvottam Swaroop</h1>
 <h3 align="center">A passionate Game Developer from India</h3>
 
-- 🔭 I’m currently working on [Zombie Runner](https://github.com/sarvo314/ZombieRunner)
+- 🔭 I’m currently working on [RPGCombat](https://github.com/sarvo314/RPGCombat)
 
 - 🌱 I’m currently learning **Unity 3D, Photon Networking, Blender**
 
