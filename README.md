@@ -1,4 +1,4 @@
-<h1 align="center">Hey! Sarvo here</h1>
+<h1 align="center">Hey! Sarvo here 🎮</h1>
 <h3 align="center">A passionate Game Developer from India</h3>
 
 - 🔭 I’m currently working on [RPGCombat](https://github.com/sarvo314/RPGCombat)
