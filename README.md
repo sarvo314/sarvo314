@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Unity 3D, Photon Networking, Blender**
 
-- 👯 I’m looking to collaborate on **Game Dev Projets**
+- 👯 I’m looking to collaborate on **Game Dev Projects**
 
 - 💬 Ask me about **Gamedev**
 
