@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CombatRPG](https://github.com/sarvo314/CombatRPG)
 
-- 🌱 I’m currently learning **Unity 3D, Photon Networking, Blender**
+- 🌱 I’m currently learning **Unity 3D, Photon Networking**
 
 - 👯 I’m looking to collaborate on **Game Dev Projects**
 
