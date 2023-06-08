@@ -1,15 +1,21 @@
 <h1 align="center">Hey! Sarvo here 🎮</h1>
 <h3 align="center">A passionate Game Developer from India</h3>
 
+- Crazy about game dev
+
 - 🔭 I’m currently working on [CombatRPG](https://github.com/sarvo314/CombatRPG)
 
 - 🌱 I’m currently learning **Unity 3D, Photon Networking**
 
 - 👯 I’m looking to collaborate on **Game Dev Projects**
 
+- And also Game Dev
+
 - 💬 Ask me about **Gamedev**
 
 - 📫 How to reach me **sarvottamswaroop100@gmail.com**
+
+- Did I mention Game Dev? 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
