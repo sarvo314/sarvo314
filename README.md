@@ -1,5 +1,5 @@
 <h1 align="center">Hey! Sarvo here 🎮</h1>
-<h3 align="center">A passionate Game Developer from India</h3>
+<h3 align="center">I'm a Game Developer who turns pixels into magic and bugs into hilarious easter eggs!</h3>
 
 - Crazy about game dev
 
