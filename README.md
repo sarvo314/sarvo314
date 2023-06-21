@@ -3,7 +3,7 @@
 
 - Crazy about game dev
 
-- 🔭 I’m currently working on [CombatRPG](https://github.com/sarvo314/CombatRPG)
+- 🔭 I’m currently working on 'fixing' reality through gamification
 
 - 🌱 I’m currently learning **Unity 3D, Photon Networking**
 
